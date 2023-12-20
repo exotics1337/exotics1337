@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Django, and NEXT.js**
 
-- 👨‍💻 I'm currently self employed and working @ [https://baeder-boutique.de](https://baeder-boutique.de)
-
 - 💬 Ask me about **C#, JavaScript, PHP, React**
+
+- 👨‍💻 I'm currently self employed and working @ [https://baeder-boutique.de](https://baeder-boutique.de)
 
 - 📫 You can reach me through my Website @ **kerim.work**
 
