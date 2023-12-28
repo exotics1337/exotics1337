@@ -7,7 +7,12 @@
 
 - 👨‍💻 I'm currently self employed and working @ [https://baeder-boutique.de](https://baeder-boutique.de)
 
-- 📫 You can reach me through my Website @ **[kerim.work](https://kerim.work/)**
+- 📫 How you can reach me:
+
+[![kerimwork](https://custom-icon-badges.demolab.com/badge/kerim.work-black?style=flat-square&logo=kwork&link=kerim.work)](https://kerim.work/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/kerim-günaydin-1a64a129a/)
+[![LinkedIn](https://img.shields.io/badge/E--Mail-Message_Me-blue?style=flat-square&logo=Minutemailer)](mailto:mail@kerim.work)
+
 
 <h3 align="left">Languages & Frameworks:</h3>
 
@@ -27,3 +32,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=exotics1337&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
