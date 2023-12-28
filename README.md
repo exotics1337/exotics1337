@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/kerim-günaydin-1a64a129a/)
 [![LinkedIn](https://img.shields.io/badge/E--Mail-Message_Me-blue?style=flat-square&logo=Minutemailer)](mailto:mail@kerim.work)
 
+<br/>
 
 <h3 align="left">Languages & Frameworks:</h3>
 
