@@ -1,5 +1,4 @@
-<h1 align="center">Heya, I'm Kerim</h1>
-<h3 align="center">A Frontend-Developer based in Germany, specialized in full-stack web applications.</h3>
+![Header](https://i.imgur.com/oU9RR6U.png)
 
 - 🌱 I’m currently learning **Django, and NEXT.js**
 
