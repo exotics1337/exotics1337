@@ -14,7 +14,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=exotics1337&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=exotics1337&theme=tokyonight&border_radius=0&mode=weekly)](https://git.io/streak-stats)
 
 <br/>
 
