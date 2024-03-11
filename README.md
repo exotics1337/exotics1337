@@ -1,6 +1,6 @@
 [![Header](https://i.imgur.com/oU9RR6U.png)](https://kerim.work/)
 
-- 🌱 I’m currently learning **AvaloniaUI, and NEXT.js**
+- 🌱 I’m currently learning **AvaloniaUI, and Blazor**
 
 - 💬 Ask me about **C#, JavaScript, PHP, React**
 
