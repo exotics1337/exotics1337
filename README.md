@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **C#, JavaScript, PHP, React**
 
-- 👨‍💻 I'm currently self employed and working @ [https://baeder-boutique.de](https://baeder-boutique.de)
+- 👨‍💻 I'm currently working @ [https://www.leadgroup.de/](https://www.leadgroup.de/)
 
 - 📫 How you can reach me:
 
